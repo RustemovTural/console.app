@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Console apt ask\bin\Debug\net8.0\Console apt ask.exe
+C:\Users\Dell\source\repos\Console apt ask\bin\Debug\net8.0\Console apt ask.deps.json
+C:\Users\Dell\source\repos\Console apt ask\bin\Debug\net8.0\Console apt ask.runtimeconfig.json
+C:\Users\Dell\source\repos\Console apt ask\bin\Debug\net8.0\Console apt ask.dll
+C:\Users\Dell\source\repos\Console apt ask\bin\Debug\net8.0\Console apt ask.pdb
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\Console apt ask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\Console apt ask.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\Console apt ask.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\Console apt ask.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\Console apt ask.dll
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\refint\Console apt ask.dll
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\Console apt ask.pdb
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\Console apt ask.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Console apt ask\obj\Debug\net8.0\ref\Console apt ask.dll
